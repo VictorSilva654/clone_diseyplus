@@ -1,3 +1,3 @@
 # clone_disneyplus
 
-Fazdendo um clone do Disney+ para o curso da EBAC, usando Gulp e o pré-processador SASS.
+Fazendo um clone do Disney+ para o curso da EBAC, usando Gulp e o pré-processador SASS.
